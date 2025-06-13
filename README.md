@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Joseph Tran
 
-<!--
-**josephvtranx/josephvtranx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Informatics student at the University of Washington, focusing on **Software Development** and **Data Science**. I love building tools that make information more accessible and intuitive—whether it's through web apps, well-structured databases, or smart automation.
 
-Here are some ideas to get you started:
+## 💻 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobius** — Full-stack education platform for private academies.
+
+## 🧠 Interests
+
+- Data engineering & pipelines  
+- Full-stack development (React, Node.js, PostgreSQL)  
+- Storytelling through personal journaling & visual design  
+
+## 📚 Currently Learning
+
+- Strudel
+- PostgreSQL optimization and indexing 
+- Cloud deployment via Render & Azure 
+
+## 🌱 Outside of Tech
+
+When I’m not coding, you’ll probably find me:
+-  Trying new cooking recepies
+-  Reading (currently: *On Earth We’re Briefly Gorgeous*)  
+- ☕ café hopping!
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/josephvuongtran/)  
+- Email: josephvtranx@gmail.com  
+
+
+Thanks for stopping by 🙌
