@@ -16,7 +16,7 @@ I'm a third-year Informatics student at the University of Washington, focusing o
 
 - Strudel
 - PostgreSQL optimization and indexing 
-- Cloud deployment via Render & Azure 
+- MCP server basics
 
 ### Outside of Tech
 
