@@ -14,7 +14,7 @@ I'm a third-year Informatics student at the University of Washington, focusing o
 
 ### Currently Learning
 
-- Strudel
+- Next.js
 - PostgreSQL optimization and indexing 
 - MCP server basics
 
