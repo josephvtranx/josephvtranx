@@ -4,7 +4,7 @@ I'm a third-year Informatics student at the University of Washington, focusing o
 
 ##  What I’m Working On
 
-- **Mobius** — Full-stack education platform for private academies.
+- **Anew Heritage** — Clothing website for new brand.
 
 ###  Interests
 
