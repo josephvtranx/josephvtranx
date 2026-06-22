@@ -21,7 +21,7 @@ I'm a third-year Informatics student at the University of Washington, focusing o
 ### Outside of Tech
 
 When I’m not coding, you’ll probably find me:
--  Trying new cooking recepies (currently Bo Kho)
+-  Trying new cooking recepies (currently butter chicken pizza)
 -  Reading (currently: *Time Is a Mother*)  
 - ☕ café hopping!
 
